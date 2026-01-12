@@ -4,4 +4,4 @@
 
 ## 🗂️ All Software
 
-- ![](https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream_aly.png)[V.Dream](https://github.com/neofodere/)
+- ![](https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream_alt.png)[V.Dream](https://github.com/neofodere/)
