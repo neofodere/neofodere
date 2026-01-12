@@ -4,4 +4,4 @@
 
 ## 🗂️ All Software
 
-- <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/logo_vdream.png" width="48" height="auto"> [**V.Dream**, V.Smile emulator](https://github.com/neofodere/vdream)
+- <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="48" height="auto"> [**V.Dream**, V.Smile emulator](https://github.com/neofodere/vdream)
