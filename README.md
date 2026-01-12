@@ -2,7 +2,7 @@
 
 ![](logo_dual_fodsoft_nsg.png)
 
-## 🗂️ All software & projects
+## 🗂️ All my software & projects
 
 - <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="64" height="auto"> [**V.Dream**, V.Smile emulator](https://fodsoft.com/vdream)
 
