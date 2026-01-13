@@ -1,4 +1,4 @@
-# Hi 👋 I'm Néo
+# Hi! 👋 I'm Néo Foderé de Frutos — software developer and founder of FODSOFT™ and NSTUDIOS GAMES™
 
 ![](logo_dual_fodsoft_nsg.png)
 
