@@ -27,4 +27,4 @@
 
 - 🇪🇸 [Check my CV in Spanish](https://resources.fodsoft.com/neo_fodere_cv_es.pdf)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?20210220164014" width="64" height="auto"> [Check my LinkedIn](https://www.linkedin.com/in/neofodere/)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?20210220164014" width="32" height="auto"> [Check my LinkedIn](https://www.linkedin.com/in/neofodere/)
