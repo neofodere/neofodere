@@ -23,6 +23,6 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/330px-42_Logo.svg.png" width="32" height="auto"> [My work at 42 School](https://github.com/nfodere-42)
 
 # 📒 My curriculum
-[Check my CV in English](https://resources.fodsoft.com/neo_fodere_cv_en.pdf)
+- 🇺🇸 [Check my CV in English](https://resources.fodsoft.com/neo_fodere_cv_en.pdf)
 
-[Check my CV in Spanish](https://resources.fodsoft.com/neo_fodere_cv_es.pdf)
+- 🇪🇸 [Check my CV in Spanish](https://resources.fodsoft.com/neo_fodere_cv_es.pdf)
