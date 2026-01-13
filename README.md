@@ -6,7 +6,7 @@
 
 - <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="64" height="auto"> [**V.Dream**, V.Smile emulator](https://fodsoft.com/vdream)
 
-- <img src="https://raw.githubusercontent.com/neofodere/nwibuzz/refs/heads/main/images/logo_nwibuzz.png" width="64" height="auto"> [**Nwibuzz™**, Windows management software](https://github.com/neofodere/nwibuzz)
+- <img src="https://raw.githubusercontent.com/neofodere/nwibuzz/refs/heads/main/images/logo_nwibuzz.png" width="64" height="auto"> [**Nwibuzz™**, Window management software](https://github.com/neofodere/nwibuzz)
 
 - <img src="https://raw.githubusercontent.com/neofodere/fodfru/refs/heads/main/images/logo_fodfru.png" width="64" height="auto"> [**FodFru™**, 3D platformer video game](https://github.com/neofodere/fodfru)
 
@@ -14,7 +14,7 @@
 
 - <img src="https://raw.githubusercontent.com/neofodere/fvax/refs/heads/main/images/logo_fvax.png" width="64" height="auto"> [**FVAX**, Video and audio container format](https://github.com/neofodere/fvax)
 
-- <img src="https://raw.githubusercontent.com/neofodere/fvax-player/refs/heads/main/images/logo_fvax_player.png" width="64" height="auto"> [**FVAX Player™**, Video and audio player compatible with FVAX format](https://github.com/neofodere/fvax-player)
+- <img src="https://raw.githubusercontent.com/neofodere/fvax-player/refs/heads/main/images/logo_fvax_player.png" width="64" height="auto"> [**FVAX Player™**, Video and audio player for FVAX](https://github.com/neofodere/fvax-player)
 
 - <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> [**nSAVE**, Web preservation tool](https://github.com/neofodere/nsave)
 
