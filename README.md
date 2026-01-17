@@ -14,8 +14,6 @@
 
 - <img src="https://raw.githubusercontent.com/neofodere/fvax/refs/heads/main/images/logo_fvax_b.png" width="64" height="auto"> [**FVAX**, Video and audio container format](https://github.com/neofodere/fvax)
 
-- <img src="https://raw.githubusercontent.com/neofodere/fvax-player/refs/heads/main/images/logo_fvax_player.png" width="64" height="auto"> [**FVAX Player™**, Video and audio player for FVAX](https://github.com/neofodere/fvax-player)
-
 - <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> [**nSAVE**, Web preservation tool](https://github.com/neofodere/nsave)
 
 ## 👀 Other works
