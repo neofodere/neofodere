@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Néo Foderé de Frutos — software developer and founder of FODSOFT™ and NSTUDIOS GAMES™
 
 ## <img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="48" height="auto"> All my software
-Logo | Software | Description |
+Logo |   Name  | Description |
 |----|----------|-------------|
 | <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="64" height="auto"> | [**V.Dream**](https://fodsoft.com/vdream) | V.Smile emulator |
 | <img src="https://raw.githubusercontent.com/neofodere/nwibuzz/refs/heads/main/images/logo_nwibuzz.png" width="64" height="auto"> | [**Nwibuzz™**](https://github.com/neofodere/nwibuzz) | Window management software |
