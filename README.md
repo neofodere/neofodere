@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Néo Foderé de Frutos — software developer and founder of [FODSOFT™](https://fodsoft.com/) and [NSTUDIOS GAMES™](https://nstudios-games.fodsoft.com/)
 
-## <img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="48" height="auto"> All my software
+## [<img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="48" height="auto">](https://fodsoft.com/) All my software
 Logo |   Name  | Description |
 |----|----------|-------------|
 | <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="64" height="auto"> | [**V.Dream**](https://fodsoft.com/vdream) | V.Smile emulator |
@@ -9,7 +9,7 @@ Logo |   Name  | Description |
 | <img src="https://raw.githubusercontent.com/neofodere/fvax/refs/heads/main/images/logo_fvax_b.png" width="64" height="auto"> | [**FVAX**](https://github.com/neofodere/fvax) | Video and audio container format |
 | <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> | [**nSAVE**](https://github.com/neofodere/nsave) | Web preservation tool |
 
-## <img src="https://resources.fodsoft.com/images/png/logo_nstudios_games_c2.png" width="48" height="auto"> All my video games
+## [<img src="https://resources.fodsoft.com/images/png/logo_nstudios_games_c2.png" width="48" height="auto">](https://nstudios-games.fodsoft.com/) All my video games
 Logo | Game | Description |
 |----|--------|---------|
 | <img src="https://raw.githubusercontent.com/neofodere/fodfru/refs/heads/main/images/logo_fodfru.png" width="64" height="auto"> | [**FodFru™**](https://github.com/neofodere/fodfru) | 3D platformer video game |
