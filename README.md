@@ -10,7 +10,7 @@ Logo |   Name  | Description |
 | <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> | [**nSAVE**](https://github.com/neofodere/nsave) | Web preservation tool |
 
 ## [<img src="https://resources.fodsoft.com/images/png/logo_nstudios_games_c2.png" width="48" height="auto">](https://nstudios-games.fodsoft.com/) All my video games
-Logo | Game | Description |
+Logo | Name | Description |
 |----|--------|---------|
 | <img src="https://raw.githubusercontent.com/neofodere/fodfru/refs/heads/main/images/logo_fodfru.png" width="64" height="auto"> | [**FodFru™**](https://github.com/neofodere/fodfru) | 3D platformer video game |
 
