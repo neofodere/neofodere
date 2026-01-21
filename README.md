@@ -3,10 +3,10 @@
 ## [<img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="48" height="auto">](https://fodsoft.com/) All my software
 Logo |   Name  | Description |
 |----|----------|-------------|
-| <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="64" height="auto"> | [**V.Dream**](https://fodsoft.com/vdream) | V.Smile emulator |
+| <img src="https://resources.fodsoft.com/images/png/logo_vdream.png" width="64" height="auto"> | [**V.Dream**](https://fodsoft.com/vdream) | V.Smile emulator |
 | <img src="https://resources.fodsoft.com/images/png/logo_nwibuzz.png" width="64" height="auto"> | [**Nwibuzz™**](https://github.com/neofodere/nwibuzz) | Window management software |
 | <img src="https://raw.githubusercontent.com/neofodere/denfo/refs/heads/main/images/logo_denfo.png" width="64" height="auto"> | [**DENFO™**](https://github.com/neofodere/denfo) | Device information software |
-| <img src="https://resources.fodsoft.com/images/png//logo_fvax_b.png" width="64" height="auto"> | [**FVAX**](https://github.com/neofodere/fvax) | Video and audio container format |
+| <img src="https://resources.fodsoft.com/images/png/logo_fvax_b.png" width="64" height="auto"> | [**FVAX**](https://github.com/neofodere/fvax) | Video and audio container format |
 | <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> | [**nSAVE**](https://github.com/neofodere/nsave) | Web preservation tool |
 
 ## [<img src="https://resources.fodsoft.com/images/png/logo_nstudios_games_c2.png" width="48" height="auto">](https://nstudios-games.fodsoft.com/) All my video games
