@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Néo Foderé de Frutos — software developer and founder of [FODSOFT™](https://fodsoft.com/) and [NSTUDIOS GAMES™](https://nstudios-games.fodsoft.com/)
+# Hi! 👋 I'm **Néo Foderé de Frutos** — software developer and founder of [FODSOFT™](https://fodsoft.com/) and [NSTUDIOS GAMES™](https://nstudios-games.fodsoft.com/)
 
 ## [<img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="48" height="auto">](https://fodsoft.com/) All my software
 Logo |   Name  | Description |
