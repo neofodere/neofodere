@@ -1,7 +1,5 @@
 # Hi! 👋 I'm Néo Foderé de Frutos — software developer and founder of FODSOFT™ and NSTUDIOS GAMES™
 
-![](logo_dual_fodsoft_nsg.png)
-
 ## <img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="48" height="auto"> All my software
 
 - <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="64" height="auto"> [**V.Dream**, V.Smile emulator](https://fodsoft.com/vdream)
