@@ -2,7 +2,7 @@
 
 ![](logo_dual_fodsoft_nsg.png)
 
-## <img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="64" height="auto"> All my software
+## <img src="https://resources.fodsoft.com/images/png/logo_fodsoft_b1.png" width="48" height="auto"> All my software
 
 - <img src="https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/logo_vdream.png" width="64" height="auto"> [**V.Dream**, V.Smile emulator](https://fodsoft.com/vdream)
 
@@ -14,7 +14,7 @@
 
 - <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> [**nSAVE**, Web preservation tool](https://github.com/neofodere/nsave)
 
-## <img src="https://resources.fodsoft.com/images/png/logo_nstudios_games_c2.png" width="64" height="auto"> All my video games
+## <img src="https://resources.fodsoft.com/images/png/logo_nstudios_games_c2.png" width="48" height="auto"> All my video games
 - <img src="https://raw.githubusercontent.com/neofodere/fodfru/refs/heads/main/images/logo_fodfru.png" width="64" height="auto"> [**FodFru™**, 3D platformer video game](https://github.com/neofodere/fodfru)
 
 ## 👀 Other works
