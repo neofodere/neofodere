@@ -3,7 +3,7 @@
 ## [<img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_b1.png" width="48" height="auto">](https://fodsoft.com/) All my software
 Logo |   Name  | Description |
 |----|----------|-------------|
-| <img src="https://resources.fodsoft.com/images/ext/logo_vdream_a.png" width="64" height="auto"> | [**V.Dream**](https://fodsoft.com/vdream) | V.Smile emulator |
+| <img src="https://resources.fodsoft.com/images/ext/logo_vdream_a.png" width="64" height="auto"> | [**V.Dream**](https://github.com/neofodere/vdream) | V.Smile emulator |
 | <img src="https://resources.fodsoft.com/images/ext/logo_nwibuzz.png" width="64" height="auto"> | [**Nwibuzz™**](https://github.com/neofodere/nwibuzz) | Window management software |
 | <img src="https://resources.fodsoft.com/images/ext/logo_denfo.png" width="64" height="auto"> | [**DENFO™**](https://github.com/neofodere/denfo) | Device information software |
 | <img src="https://resources.fodsoft.com/images/ext/logo_fvax_b.png" width="64" height="auto"> | [**FVAX**](https://github.com/neofodere/fvax) | Video and audio container format |
