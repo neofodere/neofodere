@@ -1,6 +1,6 @@
 <hr>
 
-# Hi! 👋 I'm Néo Foderé de Frutos — software developer and founder of [FODSOFT™](https://fodsoft.com/) and [NSTUDIOS GAMES™](https://nstudios-games.fodsoft.com/)
+# Hi! <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="32" height="auto"> I'm Néo Foderé de Frutos — software developer and founder of [FODSOFT™](https://fodsoft.com/) and [NSTUDIOS GAMES™](https://nstudios-games.fodsoft.com/)
 
 <img src="https://web.archive.org/web/20260205010436im_/https://camo.githubusercontent.com/04852b20de09db97ce134f8d9e01e83e8ad8bbfd09224f851129a4a43c56d8ea/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5437786b327846454b7645414141414d2f747970696e672d62656e746c65792e676966" align="right" width="256">
 
