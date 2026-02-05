@@ -1,4 +1,15 @@
+<hr>
+
 # Hi! 👋 I'm Néo Foderé de Frutos — software developer and founder of [FODSOFT™](https://fodsoft.com/) and [NSTUDIOS GAMES™](https://nstudios-games.fodsoft.com/)
+
+<img src="https://media.tenor.com/T7xk2xFEKvEAAAAM/typing-bentley.gif" align="right" width="256">
+
+Hi, I'm **Néo Foderé**, a software developer and founder of **FODSOFT™** and **NSTUDIOS GAMES™**.  
+I have experience in software and game development using tools such as **Unity Engine**, **Visual Studio**, and the **.NET** ecosystem.  
+My main specialization is **C#**, although I also work comfortably with **HTML**, **CSS**, and **JavaScript** for web development.  
+I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://gtihub.com/nfodere-42).  
+In addition, I have experience designing **vector logos (SVG)** using tools like **Inkscape** and **Adobe Illustrator**, skills that I apply across my projects.
+
 
 ## [<img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_b1.png" width="48" height="auto">](https://fodsoft.com/) All my software
 Logo |   Name  | Description |
@@ -19,26 +30,26 @@ Logo | Name | Description |
 |------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/330px-42_Logo.svg.png" width="32" height="auto"> [My work at 42 School](https://github.com/nfodere-42) |
 
-<hr>
-
 ## 🧠 Knowledge and skills
 
-| Operating systems |
-|------|
-| <img src="https://upload.wikimedia.org/wikipedia/de/thumb/0/00/Windows_Vista_Logo.svg/250px-Windows_Vista_Logo.svg.png" width="32" height="auto"> Windows |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/960px-UbuntuCoF.svg.png" width="32" height="auto"> Ubuntu |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/960px-Openlogo-debianV2.svg.png" width="32" height="auto"> Debian |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gentoo_Logo_Vector.svg/500px-Gentoo_Logo_Vector.svg.png" width="32" height="auto"> Gentoo |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/960px-Android_robot.svg.png" width="32" height="auto"> Android |
+### Operating systems:
+| Windows | Ubuntu | Debian | Gentoo | Android |
+|--------|--------|--------|--------|---------|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/0/00/Windows_Vista_Logo.svg/250px-Windows_Vista_Logo.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/960px-UbuntuCoF.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/960px-Openlogo-debianV2.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gentoo_Logo_Vector.svg/500px-Gentoo_Logo_Vector.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/960px-Android_robot.svg.png" width="32"></div> |
 
-| Programming languages |
-|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" width="32" height="auto"> C# |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="32" height="auto"> C++ |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1280px-C_Programming_Language.svg.png" width="32" height="auto"> C |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" width="32" height="auto"> Python |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" width="32" height="auto"> HTML |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/960px-CSS3_logo_and_wordmark.svg.png" width="32" height="auto"> CSS |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" width="32" height="auto"> JavaScript |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/250px-PowerShell_5.0_icon.png" width="32" height="auto"> PowerShell |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg" width="32" height="auto"> zsh |
+### Programming languages:
+| C# | C++ | C | Python | HTML | CSS | JS | XAML |
+|----|-----|---|--------|------|-----|----|------|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1280px-C_Programming_Language.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/960px-CSS3_logo_and_wordmark.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" width="32"></div> | <div align="center"><img src="https://ivangarcia15.wordpress.com/wp-content/uploads/2015/06/xaml.png" width="32"></div> | 
+
+### Some development tools:
+
+| Visual Studio | Visual Studio Code | Notepad++ | Git | .NET | WPF | Unity |
+|---------------|--------------------|-----------|-----|------|-----|--------|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/330px-Visual_Studio_Icon_2026.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/3840px-Visual_Studio_Code_1.35_icon.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/500px-Microsoft_.NET_logo.svg.png" width="32"></div> | <div align="center"><img src="https://novtec.es/wp-content/uploads/2024/12/MSFT-wpf.png" width="32"></div> | <div align="center"><img src="https://www.nintenderos.com/wp-content/uploads/2009/09/unity-logo.png" width="32"></div> |
+
+| Unreal Engine | Godot Engine | Blender | Inkscape | GIMP | PowerShell | zsh |
+|----------------|--------------|---------|----------|------|------------|-----|
+| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Unreal_Engine_logo_and_wordmark.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1280px-Inkscape_Logo.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/330px-The_GIMP_icon_-_gnome.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/250px-PowerShell_5.0_icon.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg" width="32"></div> |
+
+<hr>
