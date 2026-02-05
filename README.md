@@ -7,7 +7,7 @@
 Hi, I'm **Néo Foderé**, a software developer and founder of **FODSOFT™** and **NSTUDIOS GAMES™**.  
 I have experience in software and game development using tools such as **Unity Engine**, **Visual Studio**, and the **.NET** ecosystem.  
 My main specialization is **C#**, although I also work comfortably with **HTML**, **CSS**, and **JavaScript** for web development.  
-I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://gtihub.com/nfodere-42).  
+I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://github.com/nfodere-42).  
 In addition, I have experience designing **vector logos (SVG)** using tools like **Inkscape** and **Adobe Illustrator**, skills that I apply across my projects.
 
 
