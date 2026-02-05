@@ -26,7 +26,7 @@ Logo | Name | Description |
 | <img src="https://resources.fodsoft.com/images/ext/logo_fodfru.png" width="64" height="auto"> | [**FodFru™**](https://github.com/neofodere/fodfru) | 3D platformer video game |
 
 ## 👀 More of my work
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/330px-42_Logo.svg.png" width="32" height="auto"> [My work at 42 School](https://github.com/nfodere-42) |
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/330px-42_Logo.svg.png" width="32" height="auto"> [My work at 42 School](https://github.com/nfodere-42)
 
 ## 🧠 Knowledge and skills
 
