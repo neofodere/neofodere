@@ -28,7 +28,7 @@ Logo | Name | Description |
 ## 👀 More of my work
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/330px-42_Logo.svg.png" width="32" height="auto"> [My work at 42 School](https://github.com/nfodere-42)
 
-## 🧠 Skills and Knowledge
+## 🧠 Skills and knowledge
 
 ### Operating systems:
 | Windows | Ubuntu | Debian | Gentoo | Android |
