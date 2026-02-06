@@ -28,6 +28,8 @@ Logo | Name | Description |
 ## 👀 More of my work
 <a href="https://github.com/nfodere-42"><img src="https://img.shields.io/badge/-My%20work%20at%2042%20School-brightgreen?style=for-the-badge&logo=42&logoColor=%23000000&labelColor=%23ececec&color=%233a3a3a" width="238" height="auto"></a>
 
+>**Check my CV** in [English](https://resources.fodsoft.com/docs/neo_fodere_cv_en.pdf) or [Spanish](https://resources.fodsoft.com/docs/neo_fodere_cv_es.pdf)
+
 ## 🧠 Skills and knowledge
 
 ### Operating systems:
