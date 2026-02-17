@@ -32,11 +32,6 @@ Logo | Name | Description |
 
 ## 🧠 Skills and knowledge
 
-### Operating systems:
-| Windows | Ubuntu | Debian | Gentoo | Android |
-|--------|--------|--------|--------|---------|
-| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/0/00/Windows_Vista_Logo.svg/250px-Windows_Vista_Logo.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/960px-UbuntuCoF.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/960px-Openlogo-debianV2.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gentoo_Logo_Vector.svg/500px-Gentoo_Logo_Vector.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/960px-Android_robot.svg.png" width="32"></div> |
-
 ### Programming languages:
 | C# | C++ | C | Python | HTML | CSS | JS | XAML |
 |----|-----|---|--------|------|-----|----|------|
