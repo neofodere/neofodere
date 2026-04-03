@@ -1,17 +1,20 @@
 <hr>
 
-# Hi! <img src="https://web.archive.org/web/20260205015704if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/saludo.webp" width="32" height="auto"> I'm <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Néo Foderé de Frutos <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> — software developer and founder of [FODSOFT™](https://fodsoft.com/) and [NSTUDIOS GAMES™](https://nstudios-games.fodsoft.com/)
+# Hi! <img src="https://web.archive.org/web/20260205015704if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/saludo.webp" width="32" height="auto"> I'm <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Néo Foderé de Frutos <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> — software developer and founder of [FODSOFT™](https://fodsoft.com/)
 
 <img src="https://web.archive.org/web/20260205015658if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/bentley.webp" align="right" width="256">
 
-Hi, I'm **Néo Foderé**, a software developer and founder of **FODSOFT™** and **NSTUDIOS GAMES™**.  
+Hi, I'm **Néo Foderé**, a software developer and founder of **FODSOFT™**.  
 I have experience in software and game development using tools such as **Unity Engine**, **Visual Studio**, and the **.NET** ecosystem.  
 My main specialization is **C#**, although I also work comfortably with **HTML**, **CSS**, and **JavaScript** for web development.  
 I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://github.com/nfodere-42).  
 In addition, I have experience designing **vector logos (SVG)** using tools like **Inkscape** and **Adobe Illustrator**, skills that I apply across my projects.
 
 
-## [<img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_b1.png" width="48" height="auto">](https://fodsoft.com/) All my software
+
+## <img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_a1.png" width="256">
+
+### 💿 All my software
 Logo |   Name  | Description |
 |----|----------|-------------|
 | <img src="https://resources.fodsoft.com/images/ext/logo_vdream_a.png" width="64" height="auto"> | [**V.Dream**](https://github.com/neofodere/vdream) | V.Smile emulator |
@@ -20,7 +23,7 @@ Logo |   Name  | Description |
 | <img src="https://resources.fodsoft.com/images/ext/logo_fvax_b.png" width="64" height="auto"> | [**FVAX**](https://github.com/fodsoft/fvax) | Video and audio container format |
 | <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> | [**nSAVE**](https://github.com/neofodere/nsave) | Web preservation tool |
 
-## [<img src="https://resources.fodsoft.com/images/ext/logo_nstudios_games_c2.png" width="48" height="auto">](https://nstudios-games.fodsoft.com/) All my video games
+### 🎮 All my video games
 Logo | Name | Description |
 |----|--------|---------|
 | <img src="https://resources.fodsoft.com/images/ext/logo_fodfru.png" width="64" height="auto"> | [**FodFru™**](https://github.com/neofodere/fodfru) | 3D platformer video game |
