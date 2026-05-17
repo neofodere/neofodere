@@ -20,7 +20,6 @@ Logo |   Name  | Description |
 | <img src="https://resources.fodsoft.com/images/ext/logo_vdream_a.png" width="64" height="auto"> | [**V.Dream**](https://github.com/neofodere/vdream) | V.Smile emulator |
 | <img src="https://resources.fodsoft.com/images/ext/logo_nwibuzz.png" width="64" height="auto"> | [**Nwibuzz™**](https://github.com/neofodere/nwibuzz) | Window management software |
 | <img src="https://resources.fodsoft.com/images/ext/logo_denfo.png" width="64" height="auto"> | [**DENFO™**](https://github.com/neofodere/denfo) | Device information software |
-| <img src="https://resources.fodsoft.com/images/ext/logo_fvax_b.png" width="64" height="auto"> | [**FVAX**](https://github.com/fodsoft/fvax) | Video and audio container format |
 | <img src="https://raw.githubusercontent.com/neofodere/nsave/refs/heads/main/images/logo_nsave.png" width="64" height="auto"> | [**nSAVE**](https://github.com/neofodere/nsave) | Web preservation tool |
 
 ### 🎮 All my video games
