@@ -10,7 +10,7 @@ My main specialization is **C#**, although I also work comfortably with **HTML**
 I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://github.com/neofodere/42).  
 In addition, I have experience designing **vector logos (SVG)** using tools like **Inkscape** and **Adobe Illustrator**, skills that I apply across my projects.
 
-## <img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_a1.png" width="256">
+## <img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_aero_a1.png" width="256">
 
 ### 💿 All my software
 Logo |   Name  | Description |
