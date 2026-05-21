@@ -7,7 +7,7 @@
 Hi, I'm **Néo Foderé**, a software developer and founder of **FODSOFT™**.  
 I have experience in software and game development using tools such as **Unity Engine**, **Visual Studio**, and the **.NET** ecosystem.  
 My main specialization is **C#**, although I also work comfortably with **HTML**, **CSS**, and **JavaScript** for web development.  
-I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://github.com/nfodere-42).  
+I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://github.com/neofodere/42).  
 In addition, I have experience designing **vector logos (SVG)** using tools like **Inkscape** and **Adobe Illustrator**, skills that I apply across my projects.
 
 ## <img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_a1.png" width="256">
@@ -26,7 +26,7 @@ Logo | Name | Description |
 | <img src="https://resources.fodsoft.com/images/ext/logo_fodfru.png" width="64" height="auto"> | [**FodFru™**](https://github.com/neofodere/fodfru) | 3D platformer video game |
 
 ## 👀 More of my work
-<a href="https://github.com/nfodere-42"><img src="https://img.shields.io/badge/-My%20work%20at%2042%20School-brightgreen?style=for-the-badge&logo=42&logoColor=%23000000&labelColor=%23ececec&color=%233a3a3a" width="238" height="auto"></a>
+<a href="https://github.com/neofodere/42"><img src="https://img.shields.io/badge/-My%20work%20at%2042%20School-brightgreen?style=for-the-badge&logo=42&logoColor=%23000000&labelColor=%23ececec&color=%233a3a3a" width="238" height="auto"></a>
 
 >**Check my CV** in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="24" height="auto"> [English](https://resources.fodsoft.com/docs/neo_fodere_cv_en.pdf) or <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="24" height="auto"> [Spanish](https://resources.fodsoft.com/docs/neo_fodere_cv_es.pdf)
 
