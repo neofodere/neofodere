@@ -18,6 +18,7 @@ Logo |   Name  | Description |
 | <img src="https://resources.fodsoft.com/images/ext/logo_vdream_a.png" width="64" height="auto"> | [**V.Dream**](https://github.com/neofodere/vdream) | V.Smile emulator |
 | <img src="https://resources.fodsoft.com/images/ext/logo_nwibuzz.png" width="64" height="auto"> | [**Nwibuzz™**](https://github.com/neofodere/nwibuzz) | Window management software |
 | <img src="https://resources.fodsoft.com/images/ext/logo_denfo.png" width="64" height="auto"> | [**DENFO™**](https://github.com/neofodere/denfo) | Device information software |
+| <img src="https://resources.fodsoft.com/images/ext/logo_clickcontrol_a.png" width="64" height="auto"> | [**ClickControl™**](https://github.com/fodsoft/clickcontrol) | Anti-clickjacking security extension |
 
 ### 🎮 All my video games
 Logo | Name | Description |
