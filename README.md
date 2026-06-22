@@ -12,22 +12,19 @@ Currently, I am studying at 42 Barcelona (part of the 42 Network), where I am fo
 
 To complement my technical side, I also handle basic asset creation, modeling simple 3D objects in Blender and designing vector logos with Inkscape.
 
+<div align="center">
+
 ## Skills and knowledge
 
-### Programming languages:
+**Programming languages:**
+<br><br>
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,py,js,html,css,powershell,bash"/>
 
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,js,html,css,powershell,bash"/>
-</div>
 
-### Technologies and tools:
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=git,dotnet,visualstudio,vscode,qt,unity,unreal,godot,cloudflare"/>
-</div>
+**Technologies and tools:**
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,dotnet,visualstudio,vscode,qt,unity,unreal,godot,cloudflare"/>
 
-### Operating systems:
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=windows,linux"/>
 </div>
 
 <hr>
