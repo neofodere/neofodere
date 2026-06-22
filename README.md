@@ -1,40 +1,33 @@
 <hr>
 
-# Hi! <img src="https://web.archive.org/web/20260205015704if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/saludo.webp" width="32" height="auto"> I'm <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Néo Foderé de Frutos <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> — software developer and founder of [FODSOFT™](https://fodsoft.com/)
+# Hi! <img src="https://web.archive.org/web/20260205015704if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/saludo.webp" width="32"> I'm *Néo Foderé de Frutos* — software developer and founder of [FODSOFT™](https://fodsoft.com/)
 
-<img src="https://web.archive.org/web/20260205015658if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/bentley.webp" align="right" width="256">
+<img src="https://web.archive.org/web/20260205015658if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/bentley.webp" align="right" width="288">
 
-Hi, I'm **Néo Foderé**, a software developer and founder of **FODSOFT™**.  
-I have experience in software and game development using tools such as **Unity Engine**, **Visual Studio**, and the **.NET** ecosystem.  
-My main specialization is **C#**, although I also work comfortably with **HTML**, **CSS**, and **JavaScript** for web development.  
-I'm currently studying **C**, **C++**, and **Python** at [**42 Barcelona**](https://github.com/neofodere/42).  
-In addition, I have experience designing **vector logos (SVG)** using tools like **Inkscape** and **Adobe Illustrator**, skills that I apply across my projects.
+I have experience in low-level software development with languages like C and C++, as well as extensive knowledge of the .NET ecosystem using C#. I also specialize in game creation using industry-standard engines like Unity and Unreal Engine. Driven by a deep passion for retro technology and reverse engineering, I enjoy building emulators and custom utility tools.
 
-## <img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_aero_a1.png" width="256">
+On the web development front, I built the entire web ecosystem for fodsoft.com and its subdomains, designing a highly modular architecture completely independent of third-party frameworks.
 
-### 💿 All my software
-Logo |   Name  | Description |
-|----|----------|-------------|
-| <img src="https://resources.fodsoft.com/images/ext/logo_vdream_a.png" width="64" height="auto"> | [**V.Dream**](https://github.com/neofodere/vdream) | V.Smile emulator |
-| <img src="https://resources.fodsoft.com/images/ext/logo_nwibuzz.png" width="64" height="auto"> | [**Nwibuzz™**](https://github.com/neofodere/nwibuzz) | Window management software |
-| <img src="https://resources.fodsoft.com/images/ext/logo_denfo.png" width="64" height="auto"> | [**DENFO™**](https://github.com/neofodere/denfo) | Device information software |
-| <img src="https://resources.fodsoft.com/images/ext/logo_clickcontrol_a.png" width="64" height="auto"> | [**ClickControl™**](https://github.com/fodsoft/clickcontrol) | Anti-clickjacking security extension |
+Currently, I am studying at 42 Barcelona (part of the 42 Network), where I am focusing on Python through an intensive, project-based curriculum. This methodology relies entirely on peer-to-peer learning and self-directed work, without traditional classes or teachers.
 
-### 🎮 All my video games
-Logo | Name | Description |
-|----|--------|---------|
-| <img src="https://resources.fodsoft.com/images/ext/logo_fodfru.png" width="64" height="auto"> | [**FodFru™**](https://github.com/neofodere/fodfru) | 3D platformer video game |
+To complement my technical side, I also handle basic asset creation, modeling simple 3D objects in Blender and designing vector logos with Inkscape.
 
-## 👀 More of my work
-<a href="https://github.com/neofodere/42"><img src="https://img.shields.io/badge/-My%20work%20at%2042%20School-brightgreen?style=for-the-badge&logo=42&logoColor=%23000000&labelColor=%23ececec&color=%233a3a3a" width="238" height="auto"></a>
-
->**Check my CV** in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="24" height="auto"> [English](https://resources.fodsoft.com/docs/neo_fodere_cv_en.pdf) or <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="24" height="auto"> [Spanish](https://resources.fodsoft.com/docs/neo_fodere_cv_es.pdf)
-
-## 🧠 Skills and knowledge
+## Skills and knowledge
 
 ### Programming languages:
-| C# | C++ | C | Python | HTML | CSS | JS | XAML |
-|----|-----|---|--------|------|-----|----|------|
-| <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1280px-C_Programming_Language.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" width="43"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/960px-CSS3_logo_and_wordmark.svg.png" width="32"></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/330px-Unofficial_JavaScript_logo_2.svg.png" width="32"></div> | <div align="center"><img src="https://web.archive.org/web/20260205012555if_/https://raw.githubusercontent.com/neofodere/vdream/refs/heads/main/images/xaml_icon.png" width="43"></div> |
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,py,js,html,css,powershell,bash"/>
+</div>
+
+### Technologies and tools:
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=git,dotnet,visualstudio,vscode,qt,unity,unreal,godot,cloudflare"/>
+</div>
+
+### Operating systems:
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=windows,linux"/>
+</div>
 
 <hr>
