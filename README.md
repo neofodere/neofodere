@@ -1,7 +1,8 @@
 <hr>
+<div align="center">
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm *Néo Foderé de Frutos* — software developer and founder of [FODSOFT](https://github.com/fodsoft)
-
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm *Néo Foderé de Frutos* — software developer and founder of FODSOFT
+  
 I have experience in low-level software development with languages like C and C++, as well as extensive knowledge of the .NET ecosystem using C#. I also specialize in game creation using industry-standard engines like Unity and Unreal Engine. Driven by a deep passion for retro technology and reverse engineering, I enjoy building emulators and custom utility tools.
 
 On the web development front, I built the entire web ecosystem for fodsoft.com and its subdomains, designing a highly modular architecture completely independent of third-party frameworks.
@@ -9,9 +10,7 @@ On the web development front, I built the entire web ecosystem for fodsoft.com a
 Currently, I am studying at 42 Barcelona (part of the 42 Network), where I am focusing on Python through an intensive, project-based curriculum. This methodology relies entirely on peer-to-peer learning and self-directed work, without traditional classes or teachers.
 
 To complement my technical side, I also handle basic asset creation, modeling simple 3D objects in Blender and designing vector logos with Inkscape.
-
-<div align="center">
-
+  
 ## Skills and knowledge
 
 **Programming languages:**
