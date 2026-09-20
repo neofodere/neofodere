@@ -1,8 +1,6 @@
 <hr>
 
-# Hi! <img src="https://web.archive.org/web/20260205015704if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/saludo.webp" width="32"> I'm *Néo Foderé de Frutos* — software developer and founder of [FODSOFT™](https://fodsoft.com/)
-
-<img src="https://web.archive.org/web/20260205015658if_/https://raw.githubusercontent.com/neofodere/neofodere/refs/heads/main/images/bentley.webp" align="right" width="288">
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm *Néo Foderé de Frutos* — software developer and founder of [FODSOFT](https://github.com/fodsoft)
 
 I have experience in low-level software development with languages like C and C++, as well as extensive knowledge of the .NET ecosystem using C#. I also specialize in game creation using industry-standard engines like Unity and Unreal Engine. Driven by a deep passion for retro technology and reverse engineering, I enjoy building emulators and custom utility tools.
 
